@@ -9,6 +9,8 @@ This folder contains my notes, progress, and personal reflections on the core co
 - [`01_Progress.md`](./01_Progress.md) – Key takeaways and realizations about binary, bits, and bytes.
 - [`02_Reflection.md`](./02_Reflection.md) – Deeper thoughts on ASCII, Unicode, and the emotional rollercoaster of learning.
 - [`03_Media.md`](./03_Media.md) – How computers represent RGB colors, pixels, video, and sound.
+- [`04_Algorithms.md`](./04_Algorithms.md) – Algorithm strategies, efficiency, and Big-O notation explained.
+
 
 ---
 
