@@ -1,6 +1,6 @@
 # Week 0 – Progress Report
 
-## 🚀 What I’ve Learned So Far
+##  What I’ve Learned So Far
 
 - Computer Science isn't just about writing code — it's about solving real-world problems through structured thinking.
 - Every program is essentially: **Input → Logic → Output**.
@@ -12,7 +12,7 @@
 
 --- 
 
-## 💡 What Stood Out
+##  What Stood Out
 
 - David Malan brings *energy*, *clarity*, and an actual desire to help you grow.
 - Most CS50 students start with **zero CS background** — and that made me feel confident starting from scratch.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Personal Reflection
+##  Personal Reflection
 
 I’ve been studying development at a school where it took us nearly **a full month** to reach the kind of binary clarity I achieved here in just **two hours**.
 
@@ -31,14 +31,14 @@ Not because it's easy, but because I finally care enough to go all in.
 
 ---
 
-## 📍 Status
+##  Status
 
 I’ve completed half of Week 0.  
 I’m traveling for a few days, but I’ll be back Saturday night to continue this journey and finish what I started.
 
 ---
 
-## 🔥 Final Note
+##  Final Note
 > “Most people don’t fail because they’re dumb. They fail because they stop.”  
 > – CodeWithAlbo
 
