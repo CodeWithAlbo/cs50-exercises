@@ -1,6 +1,6 @@
-# 🧠 Week 0 – Algorithms & Big-O Notation
+#  Week 0 – Algorithms & Big-O Notation
 
-## ✍️ What I Understood
+##  What I Understood
 
 David Malan showed that programming isn't just about getting something to work — it's about doing it *better*.  
 Even with a simple problem (like finding a name in a phone book), there are *many* ways to approach it.  
@@ -10,7 +10,7 @@ And that's where **algorithms** come in: a series of steps to solve a problem ef
 
 ---
 
-## 📖 Key Concepts
+##  Key Concepts
 
 - **Algorithm:** Step-by-step method to solve a problem.
 - There’s more than one solution to a problem — but not all solutions are equal.
@@ -18,7 +18,7 @@ And that's where **algorithms** come in: a series of steps to solve a problem ef
 
 ---
 
-## 📊 Example: Searching a phonebook
+##  Example: Searching a phonebook
 
 | Approach                  | Description                                 | Time Complexity |
 |---------------------------|---------------------------------------------|-----------------|
@@ -28,7 +28,7 @@ And that's where **algorithms** come in: a series of steps to solve a problem ef
 
 ---
 
-## 📉 Visual Comparison
+##  Visual Comparison
 
 > As the size of the problem increases, the time difference between algorithms becomes huge.
 
