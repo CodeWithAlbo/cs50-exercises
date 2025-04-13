@@ -9,7 +9,7 @@ Something about this content made me want to keep going — not because I had to
 
 ---
 
-## 🧠 From ASCII to Unicode
+##  From ASCII to Unicode
 
 I learned that ASCII — with its 8-bit, 256-character limit — was no longer enough to express all human languages.
 
@@ -26,7 +26,7 @@ The first 256 characters remain exactly the same — Unicode just builds on top 
 
 ---
 
-## 🚀 Realization
+##  Realization
 
 What started as “one more video segment” became a deep dive into how computers actually represent human communication.
 
