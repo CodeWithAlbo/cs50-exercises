@@ -1,4 +1,4 @@
-# 🔙 Week 0 – RGB, Images, Video & Sound
+#  Week 0 – RGB, Images, Video & Sound
 
 ##  Comeback Log
 
