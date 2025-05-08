@@ -10,6 +10,8 @@ This folder contains my notes, progress, and personal reflections on the core co
 - [`02_Reflection.md`](./02_Reflection.md) – Deeper thoughts on ASCII, Unicode, and the emotional rollercoaster of learning.
 - [`03_Media.md`](./03_Media.md) – How computers represent RGB colors, pixels, video, and sound.
 - [`04_Algorithms.md`](./04_Algorithms.md) – Algorithm strategies, efficiency, and Big-O notation explained.
+- [`05_Pseudocode.md`](./05_Pseudocode.md) – What pseudocode is, how to write it, and why it’s your best friend before coding.
+- [`06_AI.md`](./06_AI.md) – Diving into artificial intelligence: from basic if/else to machine learning vibes.
 
 
 ---
