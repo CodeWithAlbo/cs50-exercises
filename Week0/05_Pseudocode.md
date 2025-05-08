@@ -1,3 +1,5 @@
+# 📝 Week 0 – Pseudocode: Breaking Down the Logic
+
 Alright, so here’s the deal: before you even *touch* real code, you gotta know wtf you’re trying to do. That’s where pseudocode comes in.
 
  Pseudocode = writing down step-by-step what you want the computer to do, but in plain English (or whatever language you speak).
