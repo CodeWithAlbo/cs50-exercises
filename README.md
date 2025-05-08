@@ -14,11 +14,16 @@ The repo is organized by week. Each week contains:
 
 ## ✅ Completed So Far
 
-- Week 0 → ✅  
-Covering Binary, Bits, Bytes, ASCII, Unicode, RGB, Images, Sound, and more.
-
-> I just returned from a cursed trip to Thessaloniki, and I'm back in **beast mode**.  
-> Let’s finish CS50 like it owes us money.
+- **Week 0 🖥️**
+  Covering Binary, Bits, Bytes, ASCII, Unicode, RGB, Images, Sound, Algorithms, Pseudocode, and Artificial Intelligence.
+  
+- [00_Intro.md](Week0/00_Intro.md) – Core concepts: computational thinking, problem solving, and abstraction.
+- [01_Progress.md](Week0/01_Progress.md) – Binary, bits, bytes, ASCII, Unicode deep dive.
+- [02_Reflection.md](Week0/02_Reflection.md) – Notes and realizations on the basics.
+- [03_Media.md](Week0/03_Media.md) – RGB, Images, Videos, and Sound (aka why my photos are huge lol).
+- [04_Algorithms.md](Week0/04_Algorithms.md) – Sorting out how fast (or slow) different solutions can be.
+- [05_Pseudocode.md](Week0/05_Pseudocode.md) – How to write down logic before even touching code.
+- [06_AI.md](Week0/06_AI.md) – Baby steps into AI and why LLMs are the real deal.
 
 ## 🚀 Goals
 
