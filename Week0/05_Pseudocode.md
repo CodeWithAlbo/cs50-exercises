@@ -1,4 +1,4 @@
-# 📝 Week 0 – Pseudocode: Breaking Down the Logic
+#  Week 0 – Pseudocode: Breaking Down the Logic
 
 Alright, so here’s the deal: before you even *touch* real code, you gotta know wtf you’re trying to do. That’s where pseudocode comes in.
 
